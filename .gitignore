@@ -1,0 +1,18 @@
+# CubeIDE build output
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.map
+*.list
+*.su
+
+# Eclipse/CubeIDE workspace metadata
+.metadata/
+.settings/
+.cproject.bak
+
+# OS junk
+.DS_Store
+Thumbs.db
