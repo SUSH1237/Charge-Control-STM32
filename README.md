@@ -1,4 +1,4 @@
-#daly-can-test
+# daly-can-test
 
 Testing CAN communication between an STM32 Nucleo-F446RE and a Daly Smart BMS (7-17S), as part of a PV charge controller project.
 
